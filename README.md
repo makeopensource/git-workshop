@@ -1,4 +1,5 @@
 <h1 style="text-align: center;">MakeOpenSource Git Workshop</h1>
+To see live submissions, click <a href="https://workshop.makeopensource.org/git#Submissions">here</a>
 <h2>Resources</h2>
 <ul>
     <li><a href="https://workshop.makeopensource.org/git/assets/introduction-to-git.pdf">Presentation</a></li>
