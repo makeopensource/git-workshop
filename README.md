@@ -12,6 +12,7 @@ To see live submissions, click <a href="https://workshop.makeopensource.org/git#
         install <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">PuTTY</a>
         and open it
     </li>
+    <li>Install <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">git</a></li>
     <li>Create a GitHub account</li>
     <li>Setup GitHub ssh key</li>
 </ul>
